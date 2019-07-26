@@ -22,3 +22,6 @@ print("Tiene mascotas?: {}".format(usa_lentes))
 print("Edad: {}".format(edad))
 print("Pasatiempos: {}".format(pasatiempos))
 print("Celulares: {}".format(celulares))
+
+#and = "Palabrita"
+#print(and)
